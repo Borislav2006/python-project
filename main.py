@@ -13,7 +13,6 @@ def get_valid_choice(prompt, min_choice, max_choice):
             print("Invalid input. Please enter a number.")
 
 def get_valid_items(shop, prompt):
-    """Helper function to get valid menu items."""
     while True:
         print("\nAvailable items:")
         print(shop.show_menu())
