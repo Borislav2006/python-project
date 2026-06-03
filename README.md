@@ -30,9 +30,3 @@ Requirements:
 - Python 3.x (no external libraries required)
 
 ---
-
-Author:
--------
-[Your Name]
-Course: Programming with Python
-University: [Your University Name]
